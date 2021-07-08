@@ -1,2 +1,2 @@
-# Fisrt-one
+# First-one
 First GitHub Repo
